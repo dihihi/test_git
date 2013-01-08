@@ -6,7 +6,7 @@ public class CC {
 		for (int i=0; i<initArr.length; i++) {
 			System.out.print(initArr[i]);
 		}
-		System.out.println();//cc
+		System.out.println();//ccdd
 	}
 	
 	public void swap(int i, int j) {
