@@ -1,3 +1,8 @@
+/**
+ * 分治法测试
+ * @author ddh
+ *
+ */
 public class Perm {
     private int[] a = new int[10];
    
