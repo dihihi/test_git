@@ -8,7 +8,7 @@ public class CC {
 		}
 		System.out.println();//q
 	}
-	
+	//添加了一注释行
 	public void swap(int i, int j) {
 		String temp = initArr[j];
 		initArr[j] = initArr[i];
